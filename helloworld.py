@@ -2,4 +2,3 @@
 author:shubha
 print ("hello world")
 print ("Good bye...")
-print ("new repo created")
